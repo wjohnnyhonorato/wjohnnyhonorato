@@ -2,7 +2,7 @@
 
 **Data Science Tech Lead | Causal Inference · Machine Learning · Operations · IT**
 
-Sou cientista de dados, engenheiro eletricista e Six Sigma Black Belt, com 17 anos de experiência em setores como serviços financeiros, tecnologia e indústria automotiva.
+Sou cientista de dados, engenheiro eletricista e Six Sigma Black Belt, com experiência em setores como serviços financeiros, tecnologia e indústria automotiva.
 
 Atuo na interseção entre pesquisa aplicada e problemas de negócio, combinando desenvolvimento de modelos, liderança técnica e construção de produtos de dados.
 
