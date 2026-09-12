@@ -1,16 +1,15 @@
-## Hi there 👋
+# William Johnny Honorato
 
-<!--
-**wjohnnyhonorato/wjohnnyhonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Tech Lead | Causal Inference · Machine Learning · Operations · IT**
 
-Here are some ideas to get you started:
+Sou cientista de dados, engenheiro eletricista e Six Sigma Black Belt, com 17 anos de experiência em setores como serviços financeiros, tecnologia e indústria automotiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo na interseção entre pesquisa aplicada e problemas de negócio, combinando desenvolvimento de modelos, liderança técnica e construção de produtos de dados.
+
+* **Inferência causal e ML:** avaliação de impacto, modelagem e apoio à decisão.
+* **AIOps:** detecção de anomalias e análise de causa raiz em microsserviços.
+* **Liderança técnica:** integração de frentes de ciência de dados, decisões de arquitetura e qualidade das entregas.
+
+Atualmente, aprofundo minha atuação em agentes de IA, LangGraph, RAG e avaliação de agentes, com foco em aplicações verificáveis e úteis para operações.
+
+**Tecnologias principais:** Python, SQL, AWS, EconML, DoWhy, Causalpy, LLMs, Agents, AIOps, 
